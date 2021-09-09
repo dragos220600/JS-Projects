@@ -1,1 +1,1 @@
-
+Server name: openweathermap.org
