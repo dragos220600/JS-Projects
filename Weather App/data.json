@@ -1,0 +1,17 @@
+[
+    {
+       "firstName":"Dragos",
+       "age":25,
+       "human":true
+    },
+    {
+       "firstName":"Cristi",
+       "age":21,
+       "human":true
+    },
+    {
+       "firstName":"AirCraft",
+       "age":23,
+       "human":false
+    }
+ ]
